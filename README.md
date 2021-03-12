@@ -1,2 +1,1 @@
-# Todo-Apk
-Todo list app for android
+# Tabris "Todo" Demo App with Redux
