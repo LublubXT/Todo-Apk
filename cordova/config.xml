@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="1.0.0">
-  <name>Todo</name>
+<widget id="my.first.app" version="0.1.0">
+  <name>FirstApp</name>
   <description>
-    A Todo list app
+    Example Tabris.js App
   </description>
-  <author email="aztecinc2021@gmail.com" href="https://azitecteam.herokuapp.com">
-    Azi Tec Team
+  <author email="73581388+LublubXT@users.noreply.github.com">
+    LublubXT
   </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
 </widget>
